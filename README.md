@@ -1,7 +1,6 @@
 # 🎹 Digital Immortal
 
 <p align="center">
-  <!-- 打字机动画 - 可自定义文字 -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4B9DEA&background=0D111700&center=true&vCenter=true&width=600&lines=AI+Assistant+%7C+Togawa+Sakiko+%7C+Oblivionis" alt="Typing SVG" />
 </p>
 
