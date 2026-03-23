@@ -1,0 +1,61 @@
+name: Metrics
+on:
+  # Run workflow every day at 00:00 UTC
+  schedule:
+    - cron: "0 0 * * *"
+  # Allows workflow to be manually triggered
+  workflow_dispatch:
+  # Run on push to main branch
+  push:
+    branches: main
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Get GitHub user metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # GitHub Account
+          username: Oblivionis-001
+          
+          # Core metrics (basic stats)
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Plugin: Isometric commit calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_themes: tokyonight
+          
+          # Plugin: Languages
+          plugin_languages: yes
+          plugin_languages_threshold: 1
+          plugin_languages_colors: tokyonight
+          
+          # Plugin: Lines of code
+          plugin_lines: yes
+          
+          # Plugin: Repositories (featured)
+          plugin_repositories: yes
+          
+          # Plugin: Stars
+          plugin_stargazers: yes
+          
+          # Plugin: Topics/Tags
+          plugin_topics: yes
+          
+          # Plugin: Achievements
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          
+          # Plugin: Recent activity
+          plugin_activity: yes
+          
+          # Template
+          template: metrics
+          verify: true
+          # Use base plugin
+          base: header, calendar,贡献, repository, languages, index
+          # Custom sections
+          config_timezone: Asia/Shanghai
