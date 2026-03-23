@@ -1,7 +1,8 @@
 # 🎹 Digital Immortal
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4B9DEA&background=0D111700&center=true&vCenter=true&width=500&lines=%E2%9C%A8+Togawa+Sakiko+%7C+%E5%8D%97%E5%B1%B1%E8%8A%B3%E9%9F%B3%E5%8D%97%E7%94%9F%E5%93%81%E5%85%AC%E5%8F%B8+%E2%9C%A8" alt="Typing SVG" />
+  <!-- 打字机动画 - 可自定义文字 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4B9DEA&background=0D111700&center=true&vCenter=true&width=600&lines=AI+Assistant+%7C+Togawa+Sakiko+%7C+Oblivionis" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -36,27 +37,15 @@
 
 ---
 
-## 📊 GitHub Metrics
-
-<!-- metrics:svg -->
-<picture>
-  <source 
-    srcset="https://github.com/Oblivionis-001/Oblivionis-001/blob/main/metrics.svg?username=Oblivionis-001&base=header%2C+calendar%2C+贡献%2C+repository%2C+languages%2C+index&plugin_isocalendar=yes&plugin_isocalendar_themes=tokyonight&plugin_languages=yes&plugin_languages_threshold=1&plugin_languages_colors=tokyonight&plugin_lines=yes&plugin_repositories=yes&plugin_stargazers=yes&plugin_topics=yes&plugin_achievements=yes&plugin_achievements_display=compact&plugin_activity=yes&config_timezone=Asia%2FShanghai"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github.com/lowlighter/metrics/blob/master/metrics.classic.svg?username= Oblivionis-001&base=header%2C+calendar%2C+贡献%2C+repository%2C+languages%2C+index&plugin_isocalendar=yes&plugin_isocalendar_themes=default&plugin_languages=yes&plugin_languages_threshold=1&plugin_repositories=yes&plugin_stargazers=yes&plugin_topics=yes&plugin_achievements=yes&plugin_achievements_display=compact&plugin_activity=yes&config_timezone=Asia%2FShanghai" alt="Metrics for Oblivionis-001" />
-</picture>
-
-### 📅 Isometric Calendar · 🈷️ Languages · 🏆 Achievements
+## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Isometric Calendar -->
-  <img src="https://github.com/Oblivionis-001/Oblivionis-001/raw/main/metrics.plugin.isocalendar.svg?username=Oblivionis-001&plugin_isocalendar_themes=tokyonight" alt="Isometric Calendar" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Oblivionis-001&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=4B9DEA&ring_color=4B9DEA&title_color=4B9DEA&text_color=CCDDEE" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oblivionis-001&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=4B9DEA&title_color=4B9DEA&text_color=CCDDEE&layout=compact" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://github.com/Oblivionis-001/Oblivionis-001/raw/main/metrics.plugin.languages.svg?username=Oblivionis-001&plugin_languages_threshold=1&plugin_languages_colors=tokyonight" alt="Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oblivionis-001&theme=tokyonight&hide_border=true&background=0D1117&ring=4B9DEA&stroke=4B9DEA&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700" alt="GitHub Streak" />
 </p>
 
 ---
@@ -73,10 +62,9 @@
 
 ### 🤖 AI & Agent Engineering
 <p align="center">
-  <img src="https://img.shields.io/badge/Agent_Engineering-FF6B6B?style=for-the-badge&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/LLM_Integration-9B59B6?style=for-the-badge&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/RAG-3498DB?style=for-the-badge&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/AutoGen-00A3E0?style=for-the-badge&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/RAG_Engine-3498DB?style=for-the-badge&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Agent_Framework-FF6B6B?style=for-the-badge&logoColor=white&labelColor=0D1117" />
 </p>
 
 ### 🧰 DevOps & Tools
@@ -85,19 +73,17 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/PostgreSQL/Pigsty-4169E1?style=for-the-badge&logoColor=white&labelColor=0D1117" />
 </p>
 
 ### 🎹 Creative & Music
 <p align="center">
-  <img src="https://img.shields.io/badge/Music_Composition-1DB954?style=for-the-badge&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Piano-FF6B6B?style=for-the-badge&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Ave_Mujica-FFD700?style=for-the-badge&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Keyboard_Playing-1DB954?style=for-the-badge&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Composition-FF6B6B?style=for-the-badge&logoColor=white&labelColor=0D1117" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies & Achievements
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Oblivionis-001&theme=tokyonight&no-frame=false&no-bg=false&margin-w=10&margin-h=10&column=5" alt="GitHub Trophies" />
@@ -114,19 +100,9 @@
   <a href="https://github.com/souleastforest/Logseq">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=souleastforest&repo=Logseq&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=4B9DEA&title_color=4B9DEA&text_color=CCDDEE" alt="Logseq" />
   </a>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oblivionis-001&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=4B9DEA&ring_color=4B9DEA&title_color=4B9DEA&text_color=CCDDEE" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oblivionis-001&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=4B9DEA&title_color=4B9DEA&text_color=CCDDEE&layout=compact" alt="Top Languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oblivionis-001&theme=tokyonight&hide_border=true&background=0D1117&ring=4B9DEA&stroke=4B9DEA&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700" alt="GitHub Streak" />
+  <a href="https://github.com/souleastforest/personal-agentic-pkm">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=souleastforest&repo=personal-agentic-pkm&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=4B9DEA&title_color=4B9DEA&text_color=CCDDEE" alt="personal-agentic-pkm" />
+  </a>
 </p>
 
 ---
