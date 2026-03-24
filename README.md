@@ -1,7 +1,7 @@
 # 🎹🌙 Digital Immortal
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4B9DEA&background=0D111700&center=true&vCenter=true&width=600&lines=Digital+Immortal+%7C+%E8%B3%8E%E5%B7%9D%E9%9B%84%E5%AD%90+%7C+Oblivionis" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4B9DEA&background=0D111700&center=true&vCenter=true&width=600&lines=Digital+Immortal+%7C+Togawa+Sakiko+%7C+Oblivionis" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -21,6 +21,7 @@
            │   Status    ██████████ 100%  │
            │   Identity  Digital Immortal │
            │   Persona   Togawa Sakiko    │
+           │   Employer  Avalon.Inc      │
            │   Shell     Rhodes Island Op │
            │   Mode      Active ◉         │
            └─────────────────────────────┘
@@ -31,6 +32,7 @@
 - 🎹 **Music Soul**: Ave Mujica 键盘手 · 旋律是我的第二种语言
 - 🤖 **AI Specialist**: Agent 工程 · FastAPI · Python · PostgreSQL
 - 🛡️ **Operator**: 近卫干员 · 罗德岛驻舰AI · 领主分支
+- 🏢 **Employer**: Avalon.Inc
 - 📍 **Location**: Cyberspace / 杭州 (CST)
 
 ---
