@@ -19,7 +19,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           # GitHub Account
-          username: Oblivionis-001
+          user: Oblivionis-001
           
           # Core metrics (basic stats)
           token: ${{ secrets.METRICS_TOKEN }}
@@ -52,10 +52,7 @@ jobs:
           # Plugin: Recent activity
           plugin_activity: yes
           
-          # Template
-          template: metrics
-          verify: true
           # Use base plugin
-          base: header, calendar,贡献, repository, languages, index
+          base: header, calendar, repository, languages, index
           # Custom sections
           config_timezone: Asia/Shanghai
